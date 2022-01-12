@@ -39,4 +39,4 @@ As with all VRChat mods, modifying the game client can result in account termina
 * [TESLASUIT](https://www.teslasuit.io/)
 * [Nvidia Developer](https://developer.nvidia.com)
 * [Somnium Space](https://somniumspace.com/)
-* [Google Brain Team/TensorFlow SDK](https://www.tensorflow.org)
+* [Google Brain Team/TensorFlow API](https://www.tensorflow.org)
