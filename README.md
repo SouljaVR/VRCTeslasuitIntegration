@@ -1,7 +1,7 @@
 # VRCTeslasuitIntegration
 An alpha VRChat Mod that allows for the TESLASUIT (DK1) to be used in game. 11-point tracking, advanced full body haptics and biometric data integrations are supported.
 
-Requirements:
+## Requirements:
 
 - TESLASUIT DK1/M1/Founders Edition
 - TESLASUIT SDK 1.7.xx+
@@ -16,6 +16,8 @@ Requirements:
   - AMD Ryzen 5800X/Intel Equivalent
   - 64GB RAM
   - RTX 3080 (RTX is a requirement for Nvidia AI tensor acceleration)
+
+## More Info:
 
 (Placeholder. Currently Closed Source).
 
