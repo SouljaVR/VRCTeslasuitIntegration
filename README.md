@@ -16,10 +16,27 @@ An alpha VRChat Mod that allows for the TESLASUIT (DK1) to be used in game. 11-p
   - AMD Ryzen 5800X/Intel Equivalent
   - 64GB RAM
   - RTX 3080 (RTX is a requirement for Nvidia AI tensor acceleration)
-- Competent Unity knowledge. Haptic support needs to be integrated into your avatar. As of now the process is mostly manual. An automatic setup/appliction script is in the works. A unity prefab is included with all releases with all assets required for avatar haptics support. Biometric support is based on [HRtoVRC](https://github.com/200Tigersbloxed/UnityMods/tree/main/HRtoVRChat) by 200Tigersbloxed so their setup guide applies here too. TESLASUIT biometric data is sent to HRtoVRC via the textfile option (stored in \VRChat\UserData\TS_HR.txt)
+- Competent Unity knowledge. Haptic support needs to be integrated into your avatar. As of now the process is mostly manual. An automatic setup/appliction script is in the works. A unity prefab is included with all releases with all assets required for avatar haptics support. Biometric support is based on [HRtoVRChat](https://github.com/200Tigersbloxed/UnityMods/tree/main/HRtoVRChat) by 200Tigersbloxed so their setup guide applies here too. TESLASUIT biometric data is sent to HRtoVRC via the textfile option (stored in \VRChat\UserData\TS_HR.txt)
 
 ## More Info:
 
 (Placeholder. Currently Closed Source).
 
 Teslasuit.io
+
+## Disclaimer
+
+As with all VRChat mods, modifying the game client can result in account termination, be it temporary or permanent. While this mod doesn't ruin the experience for others, using it may still be a bannable offence.<br>
+
+**USE AT YOUR OWN RISK**. I will not be held responsible for any punishments you may recieve for using this mod.
+
+## Credits
+
+* [HerpDerpinstine/MelonLoader](https://github.com/HerpDerpinstine/MelonLoader)
+* [200Tigersbloxed/HRtoVRChat](https://github.com/200Tigersbloxed/UnityMods/tree/main/HRtoVRChat)
+* [benaclejames/ParamLib](https://github.com/benaclejames/ParamLib)
+* [Knah/IKTweaks](https://github.com/knah/VRCMods/tree/master/IKTweaks)
+* [TESLASUIT](https://www.teslasuit.io/)
+* [Nvidia Developer](https://developer.nvidia.com)
+* [Somnium Space](https://somniumspace.com/)
+* [Google Brain Team](https://www.tensorflow.org)
